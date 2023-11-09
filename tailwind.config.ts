@@ -15,12 +15,12 @@ const config: Config = {
       },
       keyframes: {
         FadeIn: {
-          'from': {backgroundColor : '#4E9F3D'},
-          'to': {backgroundColor : '#1E5128'}
+          'from': {backgroundColor : '#39A7FF'},
+          'to': {backgroundColor : '#87C4FF'}
         },
         FadeOut: {
-          'from' : {backgroundColor : '#1E5128'},
-          'to' : {backgroundColor : '#4E9F3D'},
+          'from' : {backgroundColor : '#87C4FF'},
+          'to' : {backgroundColor : '#39A7FF'},
         }
       },
       animation: {
